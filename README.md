@@ -1,4 +1,6 @@
-# Image
+# Badget
+
+## Image
 
 
 <img width="500" alt="Screenshot 2023-05-04 at 8 45 58 PM" src="https://user-images.githubusercontent.com/132324275/236252695-7e4b7a60-e7ff-4e8e-97ed-8ddcfa868a9c.png">
@@ -8,7 +10,7 @@
 
 making budget app using React js 
 
-# Installation steps
+## Installation steps
 
 1. Clone this project using github link 
 
