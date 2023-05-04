@@ -16,15 +16,15 @@ making budget app using React js
         
 2. Install node_modules using this command 
         
-        npm install
+        $ npm install
         
 3. start react app 
 
-        npm start 
+        $ npm start 
  
 4. If you have Problem of other module 
 
     install node_modules again but using 
     
-        npm install -- force 
+        $ npm install -- force 
               
